@@ -1,5 +1,7 @@
-# Hush
+# All Hush Features
 
+Main
+```
 shared["FFlagAXCombineGetOutfitDispatchesIXP2"] = {
     ["Universal"] = {
         ['Indicators'] = { ['Enabled'] = (true) },
