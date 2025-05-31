@@ -1,6 +1,6 @@
 # All Hush Features
 
-Main
+# Main
 ```
 shared["FFlagAXCombineGetOutfitDispatchesIXP2"] = {
     ["Universal"] = {
