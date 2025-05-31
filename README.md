@@ -1,4 +1,4 @@
-# All Hush Features
+# Hush Script Table
 
 # Main
 ```
