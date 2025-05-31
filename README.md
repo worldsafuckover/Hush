@@ -1,6 +1,6 @@
 # Hush Script Table
 
-# Main
+# •  Main
 ```
 shared["FFlagAXCombineGetOutfitDispatchesIXP2"] = {
     ["Universal"] = {
